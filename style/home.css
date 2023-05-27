@@ -63,14 +63,14 @@ transition: all 0.32s ease 0s;
   
   .bg_yellow_3 {
    border: 3px solid #efc81a ;
-    height: 500px;
-    width: 475px;
+    height: 100vh;
+    width: 80%;
     position: absolute;
-    left: 30vh;
-    bottom: 0 ;
-    top: 30vh;
+    left: 10vh;
+
+    top: 20vh;
     z-index: -1;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 0px 10px 10px 10px;
   }
   
 
@@ -171,12 +171,7 @@ transition: all 0.32s ease 0s;
     }
   
     #popular-for-u .bg_yellow_3 {
-      height: 270px;
-      width: 320px;
-      position: absolute;
-      left: 5vh;
-      top: 26vh;
-      border-radius: 10px 0px 0px 10px;
+height: 300px;
     }
 
   
